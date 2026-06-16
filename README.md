@@ -59,7 +59,7 @@ Paste that JSON into the **Real Synapse proof** box in the app to update the liv
 - Repository URL: https://github.com/olive8882-1996/proof-capsule
 - Explanation of Filecoin usage: see `SUBMISSION.md`.
 - AI build log: see `AI_BUILD_LOG.md`.
-- Public X post: pending user approval/account posting.
+- Public X post: https://x.com/martin_moh53075/status/2066716856220791034
 
 ## Notes
 

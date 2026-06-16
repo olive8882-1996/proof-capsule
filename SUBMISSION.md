@@ -58,3 +58,5 @@ The app turns a short claim/evidence payload into a capsule with PieceCID, provi
 
 Demo: https://olive8882-1996.github.io/proof-capsule/
 Repo: https://github.com/olive8882-1996/proof-capsule
+
+Public post: https://x.com/martin_moh53075/status/2066716856220791034
