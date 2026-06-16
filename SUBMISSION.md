@@ -4,6 +4,14 @@
 
 Proof Capsule
 
+## Links
+
+- Live demo: https://olive8882-1996.github.io/proof-capsule/
+- Repository: https://github.com/olive8882-1996/proof-capsule
+- Demo video: https://olive8882-1996.github.io/proof-capsule/proof-capsule-demo.mov
+- Screenshot: https://olive8882-1996.github.io/proof-capsule/proof-capsule-screenshot.jpg
+- Public X post: https://x.com/martin_moh53075/status/2066716856220791034
+
 ## Short Description
 
 Proof Capsule lets a user seal a short claim or memory into a Filecoin-backed capsule. The product experience centers on the proof: after sealing, the app shows the PieceCID, data set, provider, USDFC rail, PDP status, and retrieval route as the main reward.

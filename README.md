@@ -53,6 +53,14 @@ The script:
 
 Paste that JSON into the **Real Synapse proof** box in the app to update the live proof card.
 
+## Technical Deep Dive
+
+- `scripts/seal-with-synapse.mjs` is the real Filecoin path. It creates a Synapse client, prepares storage payment, uploads the capsule JSON, downloads it back by PieceCID, and writes a reusable proof JSON file.
+- `src/proof.ts` contains the browser proof-state logic: deterministic demo PieceCID generation, proof timeline states, and Synapse proof JSON ingestion.
+- `src/data.ts` contains the sample Filecoin-facing proof fields used in demo mode: PieceCID, data set, provider, USDFC rail, PDP status, and retrieval route.
+- `src/App.tsx` wires the one-screen product flow: compose a capsule, seal it, inspect the proof card, and apply a real proof JSON.
+- `SUBMISSION.md` explains what is real, what is demo-mode, and how Filecoin is part of the product experience.
+
 ## Submission Checklist
 
 - Live demo URL: https://olive8882-1996.github.io/proof-capsule/
