@@ -10,7 +10,7 @@ Proof Capsule
 - Repository: https://github.com/olive8882-1996/proof-capsule
 - Demo video: https://olive8882-1996.github.io/proof-capsule/proof-capsule-demo.mov
 - Screenshot: https://olive8882-1996.github.io/proof-capsule/proof-capsule-screenshot.jpg
-- Public X post: https://x.com/martin_moh53075/status/2066716856220791034
+- Public X post: https://x.com/martin_moh53075/status/2066738201155469772
 
 ## Short Description
 
@@ -67,4 +67,4 @@ The app turns a short claim/evidence payload into a capsule with PieceCID, provi
 Demo: https://olive8882-1996.github.io/proof-capsule/
 Repo: https://github.com/olive8882-1996/proof-capsule
 
-Public post: https://x.com/martin_moh53075/status/2066716856220791034
+Public post: https://x.com/martin_moh53075/status/2066738201155469772
